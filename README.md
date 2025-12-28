@@ -2,5 +2,6 @@
 Frequently asked Machine Coding Questions on React:
  * Progress Bar
  * Stepper form
+ * Nested checkbox
 
 Run the application with command : npm run dev
