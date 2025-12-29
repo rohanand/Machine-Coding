@@ -5,5 +5,6 @@ Frequently asked Machine Coding Questions on React:
  * Nested checkbox
  * File Explorer
  * Search suggestions with Mock API
+ * Drag and Drop (Kanban Board)
 
 Run the application with command : npm run dev
