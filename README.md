@@ -9,5 +9,6 @@ Frequently asked Machine Coding Questions on React:
  * Traffic Lights with Duration
  * Infinite Scroll
  * Tic-Tac-Toe Game
+ * Nested Comments(Add and reply to comment only)
 
 Run the application with command : npm run dev
