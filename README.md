@@ -8,5 +8,6 @@ Frequently asked Machine Coding Questions on React:
  * Drag and Drop (Kanban Board)
  * Traffic Lights with Duration
  * Infinite Scroll
+ * Tic-Tac-Toe Game
 
 Run the application with command : npm run dev
